@@ -1,0 +1,3 @@
+*.tar.gz
+container-scripts/*
+!container-scripts/README.md
